@@ -1,0 +1,7 @@
+{
+    "db": "db/rawmap.csv", 
+    "model": "models/test_model.pkl", 
+    "warn_lv1": "2.0", 
+    "warn_lv2": "4.0", 
+    "warn_lv3": "6.0"
+}
